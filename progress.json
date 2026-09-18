@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T22:08:42.482Z",
+  "generated_at": "2026-09-18T22:14:10.785Z",
   "items": {
     "math:9": {
       "kind": "math",
@@ -22,6 +22,17 @@
       "path": "math/0010-matrix-multiplication",
       "first_solved_at": "2026-09-18T22:08:39.656Z",
       "last_pushed_at": "2026-09-18T22:08:39.656Z"
+    },
+    "math:8": {
+      "kind": "math",
+      "id": "8",
+      "title": "Vector Norms and Linear Independence",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/8",
+      "path": "math/0008-vector-norms-and-linear-independence",
+      "first_solved_at": "2026-09-18T22:14:10.319Z",
+      "last_pushed_at": "2026-09-18T22:14:10.319Z"
     }
   }
 }
