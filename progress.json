@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T16:28:13.028Z",
+  "generated_at": "2026-11-22T21:13:28.098Z",
   "items": {
     "math:9": {
       "kind": "math",
@@ -220,6 +220,19 @@
       "path": "math/0032-softmax-and-cross-entropy",
       "first_solved_at": "2026-11-03T16:28:12.349Z",
       "last_pushed_at": "2026-11-03T16:28:12.349Z"
+    },
+    "problem:308": {
+      "kind": "problem",
+      "id": "308",
+      "title": "Gradient Direction and Magnitude",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/308",
+      "path": "problems/0308-gradient-direction-and-magnitude",
+      "first_solved_at": "2026-11-22T21:13:27.505Z",
+      "last_pushed_at": "2026-11-22T21:13:27.505Z",
+      "language": "python",
+      "lines": 33
     }
   }
 }
